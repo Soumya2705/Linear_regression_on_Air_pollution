@@ -1,3 +1,4 @@
-*.csv
+Cleaned_AQ.csv
+openaq_dataset.csv
 data/
 dataset/
