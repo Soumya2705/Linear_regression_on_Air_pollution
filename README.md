@@ -25,13 +25,6 @@ https://drive.google.com/file/d/1prL9X23aMcye-xCYvtwRTqSplq-Bgm9U/view?usp=shari
 
 ---
 
-## 🔗 GitHub Repository
-
-Project Repository:
-https://github.com/Soumya2705/Linear_regression_on_Air_pollution
-
----
-
 ## 🛠️ Tools & Libraries Used
 
 * Python
@@ -93,19 +86,6 @@ This helps understand how different regression approaches perform on the dataset
 
 ---
 
-## 📁 Files in Repository
-
-```
-linear regression.ipynb
-balanced_df.csv
-oversampled_data.csv
-undersampled_data.csv
-README.md
-.gitignore
-```
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository
@@ -124,15 +104,6 @@ Possible improvements for this project include:
 * Time-series forecasting of pollution levels
 * Interactive data visualization dashboards
 * Deploying the prediction model as a web application
-
----
-
-## 👤 Author
-
-**Soumya Saha**
-
-GitHub Profile:
-https://github.com/Soumya2705
 
 ---
 
