@@ -1,1 +1,3 @@
-openaq_dataset.csv
+*.csv
+data/
+dataset/
